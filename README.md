@@ -1,7 +1,6 @@
 *Hi, I’m Toseic/Tosey*
 
 
-<!---
-Toseic/Toseic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Toseic&show_icons=true&theme=algolia&count_private=true)</br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toseic&theme=dark&layout=compact)
+
