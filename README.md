@@ -1,6 +1,6 @@
 *Hi, I’m Toseic.*
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Toseic&show_icons=true&theme=algolia&count_private=true&hide=issues)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toseic&theme=algolia&layout=compact)
+![GitHub Stats](https://ghstats.dev/api/card?username=Toseic&theme=tokyonight&hide=issues)
 
+![Top Languages](https://ghstats.dev/api/langs?username=Toseic&theme=tokyonight&layout=compact)
